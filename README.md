@@ -1,4 +1,4 @@
-# Hypothesis Testing and Normality Analysis with Real-World Datasets
+# Hypothesis Testing and Normality Analysis with Properties Datasets
 
 ## Project Overview
 This project focuses on performing detailed hypothesis testing and normality analysis on two real-world datasets:
